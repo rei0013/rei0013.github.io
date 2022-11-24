@@ -1,0 +1,32 @@
+HTML5IECrOpSaFx
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Кнопка</title>
+ </head>
+ <body> 
+  <form>
+   <p><input type="button" value=" 1 "></p>
+  </form>
+  <form>
+   <p><input type="button" value=" 2 "></p>
+  </form>
+  <form>
+   <p><input type="button" value=" 3 "></p>
+  </form>
+  <form>
+   <p><input type="button" value=" 4 "></p>
+  </form>
+  <form>
+   <p><input type="button" value=" 5 "></p>
+  </form>
+  <form>
+   <p><input type="button" value=" 6 "></p>
+  </form>
+  <form>
+   <p><input type="button" value=" 7 "></p>
+  </form>
+ </body>
+</html>
